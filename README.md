@@ -1,0 +1,1 @@
+Se creo un programa dondr se ingresa tres calificaciones por parcial, y depedependiendo de la mas alta sera su calificacion semestral.
